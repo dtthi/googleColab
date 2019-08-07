@@ -1,0 +1,6 @@
+classes = 1
+train  = ./snowman_train.txt
+valid  = ./snowman_test.txt
+names = ./classes.names
+backup = ./weights
+
